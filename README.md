@@ -1,2 +1,2 @@
 # CorePython
-CorePythonProgramming code
+Core Python Programming code
